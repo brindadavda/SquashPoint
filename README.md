@@ -103,4 +103,3 @@ What's more exciting? Stay in sync with the evolving landscape! SquashPoint regu
      -  Magisk detect
      -  Emulator Check
      -  FRIDA DETECTION    
--  ADVANCE LEVEL - ⚠️IN PROGRESS WILL UPDATE IN UPCOMING Release⚠️
