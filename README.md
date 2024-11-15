@@ -33,8 +33,9 @@ What's more exciting? Stay in sync with the evolving landscape! SquashPoint regu
 <p>
   <img src="https://github.com/user-attachments/assets/c25f7dff-ec59-4def-bab6-52a3bfba3060" alt="Image 1" width="200">
   <img src="https://github.com/user-attachments/assets/1e73b976-10be-44ec-9e79-33c9a1643987" alt="Image 2" width="200">
-  <img src="https://github.com/user-attachments/assets/50697dc4-5688-4f93-b18a-88186d9c325" alt="Image 3" width="200">
+  <img src="https://github.com/user-attachments/assets/f1b1acf3-d29e-4b38-82fe-12b0cf1a175b" alt="Image 3" width="200">
 </p>
+
 
 
 ## ⚠️Vulnerabilities
