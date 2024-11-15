@@ -51,7 +51,7 @@
             android:exported="true"
             android:launchMode="singleTask">
             <intent-filter>
-                <data android:scheme="bugbazaar" />
+                <data android:scheme="SquashPoint" />
                 <data android:host="externalAuthentication" />
 
                 <action android:name="android.intent.action.VIEW" />

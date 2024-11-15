@@ -8,13 +8,18 @@
     android:layout_gravity="top"
     android:background="@drawable/back2">
 
-    <ImageView
+    <TextView
         android:layout_width="300dp"
         android:layout_height="100dp"
-        android:layout_marginTop="40dp"
         android:layout_gravity="center"
-        android:src="@drawable/bb_nameonly">
-        ></ImageView>
+        android:layout_marginTop="40dp"
+        android:text="SquashPoint"
+        android:fontFamily="@font/playpensans"
+        android:textStyle="bold"
+        android:textSize="48sp"
+        android:textColor="@color/black"
+        android:textAlignment="center"/>
+
     <ImageView
         android:layout_width="220dp"
         android:layout_height="220dp"
