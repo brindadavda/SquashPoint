@@ -30,9 +30,12 @@ SquashPoint offers a wide range of vulnerabilities, from "RCE through insecure D
 What's more exciting? Stay in sync with the evolving landscape! SquashPoint regularly updates with fresh vulnerabilities and captivating challenges. Stay vigilant, stay ahead! Get Started Today!
 
 ## 📷Screenshots
-<img width="380" height="260" alt="meme" src="https://github.com/user-attachments/assets/c25f7dff-ec59-4def-bab6-52a3bfba3060">
-![SP_Login](https://github.com/user-attachments/assets/1e73b976-10be-44ec-9e79-33c9a1643987)
-![SP_Home](https://github.com/user-attachments/assets/50697dc4-5688-4f93-b18a-88186d9c325b)
+<p>
+  <img src="https://github.com/user-attachments/assets/c25f7dff-ec59-4def-bab6-52a3bfba3060" alt="Image 1" width="200">
+  <img src="https://github.com/user-attachments/assets/1e73b976-10be-44ec-9e79-33c9a1643987" alt="Image 2" width="200">
+  <img src="https://github.com/user-attachments/assets/50697dc4-5688-4f93-b18a-88186d9c325" alt="Image 3" width="200">
+</p>
+
 
 ## ⚠️Vulnerabilities
 
